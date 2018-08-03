@@ -1,0 +1,6 @@
+name: BlackWater-BlazingTrack
+main: pl.blackwater.blazingtrack.Main
+version: 0.1
+author: CzarnaWoda
+description: BlazingTrack plugin stworzony przez BlackWater aka CzarnaWoda
+depend: [ChestPvP-Api]
